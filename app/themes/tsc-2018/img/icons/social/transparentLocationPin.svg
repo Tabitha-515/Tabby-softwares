@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>White Social - Location</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="3.46486582%" y1="-26.8555474%" x2="72.2788665%" y2="32.414307%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.4" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="White-Social---Location" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval-2-Copy" fill-opacity="0.699999988" fill="url(#linearGradient-1)" cx="8" cy="8" r="8"></circle>
+        <path d="M8,13.3333333 C10.1333333,10.6004297 11.2,8.28931858 11.2,6.4 C11.2,4.6326888 9.7673112,3.2 8,3.2 C6.2326888,3.2 4.8,4.6326888 4.8,6.4 C4.8,8.28931858 5.86666667,10.6004297 8,13.3333333 Z" id="Oval-5" fill="#FFFFFF"></path>
+    </g>
+</svg>

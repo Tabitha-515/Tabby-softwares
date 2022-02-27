@@ -1,0 +1,348 @@
+Uri: http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js
+File Name: C:\Downloaded Web Sites\www.apensoftwares.co.ke\ajax\libs\jquery\1.10.2\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://www.apensoftwares.co.ke/
+File Name: C:\Downloaded Web Sites\www.apensoftwares.co.ke\index.htm
+Content Type: text/html
+
+Uri: https://www.apensoftwares.co.ke/about
+File Name: C:\Downloaded Web Sites\www.apensoftwares.co.ke\about.html
+Content Type: text/html
+
+Uri: https://www.apensoftwares.co.ke/app/themes/tsc-2018/img/footer/arrow-green.svg
+File Name: C:\Downloaded Web Sites\www.apensoftwares.co.ke\app\themes\tsc-2018\img\footer\arrow-green.svg
+Content Type: image/svg+xml
+
+Uri: https://www.apensoftwares.co.ke/app/themes/tsc-2018/img/footer/arrow-grey.svg
+File Name: C:\Downloaded Web Sites\www.apensoftwares.co.ke\app\themes\tsc-2018\img\footer\arrow-grey.svg
+Content Type: image/svg+xml
+
+Uri: https://www.apensoftwares.co.ke/app/themes/tsc-2018/img/footer/facebook-green.svg
+File Name: C:\Downloaded Web Sites\www.apensoftwares.co.ke\app\themes\tsc-2018\img\footer\facebook-green.svg
+Content Type: image/svg+xml
+
+Uri: https://www.apensoftwares.co.ke/app/themes/tsc-2018/img/footer/facebook-grey.svg
+File Name: C:\Downloaded Web Sites\www.apensoftwares.co.ke\app\themes\tsc-2018\img\footer\facebook-grey.svg
+Content Type: image/svg+xml
+
+Uri: https://www.apensoftwares.co.ke/app/themes/tsc-2018/img/footer/insta-green.svg
+File Name: C:\Downloaded Web Sites\www.apensoftwares.co.ke\app\themes\tsc-2018\img\footer\insta-green.svg
+Content Type: image/svg+xml
+
+Uri: https://www.apensoftwares.co.ke/app/themes/tsc-2018/img/footer/insta-grey.svg
+File Name: C:\Downloaded Web Sites\www.apensoftwares.co.ke\app\themes\tsc-2018\img\footer\insta-grey.svg
+Content Type: image/svg+xml
+
+Uri: https://www.apensoftwares.co.ke/app/themes/tsc-2018/img/footer/twitter-green.svg
+File Name: C:\Downloaded Web Sites\www.apensoftwares.co.ke\app\themes\tsc-2018\img\footer\twitter-green.svg
+Content Type: image/svg+xml
+
+Uri: https://www.apensoftwares.co.ke/app/themes/tsc-2018/img/footer/twitter-grey.svg
+File Name: C:\Downloaded Web Sites\www.apensoftwares.co.ke\app\themes\tsc-2018\img\footer\twitter-grey.svg
+Content Type: image/svg+xml
+
+Uri: https://www.apensoftwares.co.ke/app/themes/tsc-2018/img/footer/youtube_green.svg
+File Name: C:\Downloaded Web Sites\www.apensoftwares.co.ke\app\themes\tsc-2018\img\footer\youtube_green.svg
+Content Type: image/svg+xml
+
+Uri: https://www.apensoftwares.co.ke/app/themes/tsc-2018/img/footer/youtube_grey.svg
+File Name: C:\Downloaded Web Sites\www.apensoftwares.co.ke\app\themes\tsc-2018\img\footer\youtube_grey.svg
+Content Type: image/svg+xml
+
+Uri: https://www.apensoftwares.co.ke/app/themes/tsc-2018/img/icons/desktop/arrow-down.svg
+File Name: C:\Downloaded Web Sites\www.apensoftwares.co.ke\app\themes\tsc-2018\img\icons\desktop\arrow-down.svg
+Content Type: image/svg+xml
+
+Uri: https://www.apensoftwares.co.ke/app/themes/tsc-2018/img/icons/desktop/arrow-right.svg
+File Name: C:\Downloaded Web Sites\www.apensoftwares.co.ke\app\themes\tsc-2018\img\icons\desktop\arrow-right.svg
+Content Type: image/svg+xml
+
+Uri: https://www.apensoftwares.co.ke/app/themes/tsc-2018/img/icons/desktop/arrow-up.svg
+File Name: C:\Downloaded Web Sites\www.apensoftwares.co.ke\app\themes\tsc-2018\img\icons\desktop\arrow-up.svg
+Content Type: image/svg+xml
+
+Uri: https://www.apensoftwares.co.ke/app/themes/tsc-2018/img/icons/social/transparentFacebookPin.svg
+File Name: C:\Downloaded Web Sites\www.apensoftwares.co.ke\app\themes\tsc-2018\img\icons\social\transparentFacebookPin.svg
+Content Type: image/svg+xml
+
+Uri: https://www.apensoftwares.co.ke/app/themes/tsc-2018/img/icons/social/transparentInstagramPin.svg
+File Name: C:\Downloaded Web Sites\www.apensoftwares.co.ke\app\themes\tsc-2018\img\icons\social\transparentInstagramPin.svg
+Content Type: image/svg+xml
+
+Uri: https://www.apensoftwares.co.ke/app/themes/tsc-2018/img/icons/social/transparentLocationPin.svg
+File Name: C:\Downloaded Web Sites\www.apensoftwares.co.ke\app\themes\tsc-2018\img\icons\social\transparentLocationPin.svg
+Content Type: image/svg+xml
+
+Uri: https://www.apensoftwares.co.ke/app/themes/tsc-2018/img/icons/social/transparentPhonePin.svg
+File Name: C:\Downloaded Web Sites\www.apensoftwares.co.ke\app\themes\tsc-2018\img\icons\social\transparentPhonePin.svg
+Content Type: image/svg+xml
+
+Uri: https://www.apensoftwares.co.ke/app/themes/tsc-2018/img/icons/social/transparentTwitterPin.svg
+File Name: C:\Downloaded Web Sites\www.apensoftwares.co.ke\app\themes\tsc-2018\img\icons\social\transparentTwitterPin.svg
+Content Type: image/svg+xml
+
+Uri: https://www.apensoftwares.co.ke/app/themes/tsc-2018/img/icons/social/transparentYoutubePin.svg
+File Name: C:\Downloaded Web Sites\www.apensoftwares.co.ke\app\themes\tsc-2018\img\icons\social\transparentYoutubePin.svg
+Content Type: image/svg+xml
+
+Uri: https://www.apensoftwares.co.ke/cdd/blazy/latest/blazy.min5010.js?ver=4.9.8
+File Name: C:\Downloaded Web Sites\www.apensoftwares.co.ke\cdd\blazy\latest\blazy.min5010.js
+Content Type: application/javascript
+
+Uri: https://www.apensoftwares.co.ke/cdd/npm/jquery%401.12.4/dist/jquery.minb8ff.js?ver=1.12.4
+File Name: C:\Downloaded Web Sites\www.apensoftwares.co.ke\cdd\npm\jquery@1.12.4\dist\jquery.minb8ff.js
+Content Type: application/javascript
+
+Uri: https://www.apensoftwares.co.ke/cdd/npm/jquery-mousewheel%403.1.13/jquery.mousewheel.min5010.js?ver=4.9.8
+File Name: C:\Downloaded Web Sites\www.apensoftwares.co.ke\cdd\npm\jquery-mousewheel@3.1.13\jquery.mousewheel.min5010.js
+Content Type: application/javascript
+
+Uri: https://www.apensoftwares.co.ke/cdd/npm/slick-carousel%401.6.0/slick/ajax-loader.gif
+File Name: C:\Downloaded Web Sites\www.apensoftwares.co.ke\cdd\npm\slick-carousel@1.6.0\slick\ajax-loader.gif
+Content Type: image/gif
+
+Uri: https://www.apensoftwares.co.ke/cdd/npm/slick-carousel%401.6.0/slick/fonts/slick.eot
+File Name: C:\Downloaded Web Sites\www.apensoftwares.co.ke\cdd\npm\slick-carousel@1.6.0\slick\fonts\slick.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.apensoftwares.co.ke/cdd/npm/slick-carousel%401.6.0/slick/fonts/slick.svg
+File Name: C:\Downloaded Web Sites\www.apensoftwares.co.ke\cdd\npm\slick-carousel@1.6.0\slick\fonts\slick.svg
+Content Type: image/svg+xml
+
+Uri: https://www.apensoftwares.co.ke/cdd/npm/slick-carousel%401.6.0/slick/fonts/slick.ttf
+File Name: C:\Downloaded Web Sites\www.apensoftwares.co.ke\cdd\npm\slick-carousel@1.6.0\slick\fonts\slick.ttf
+Content Type: font/ttf
+
+Uri: https://www.apensoftwares.co.ke/cdd/npm/slick-carousel%401.6.0/slick/fonts/slick.woff
+File Name: C:\Downloaded Web Sites\www.apensoftwares.co.ke\cdd\npm\slick-carousel@1.6.0\slick\fonts\slick.woff
+Content Type: font/woff
+
+Uri: https://www.apensoftwares.co.ke/cdd/npm/slick-carousel%401.6.0/slick/fonts/slickd41d.eot?
+File Name: C:\Downloaded Web Sites\www.apensoftwares.co.ke\cdd\npm\slick-carousel@1.6.0\slick\fonts\slickd41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.apensoftwares.co.ke/cdd/npm/slick-carousel%401.6.0/slick/slick-theme.min5010.css?ver=4.9.8
+File Name: C:\Downloaded Web Sites\www.apensoftwares.co.ke\cdd\npm\slick-carousel@1.6.0\slick\slick-theme.min5010.css
+Content Type: text/css
+
+Uri: https://www.apensoftwares.co.ke/cdd/npm/slick-carousel%401.6.0/slick/slick.min5010.css?ver=4.9.8
+File Name: C:\Downloaded Web Sites\www.apensoftwares.co.ke\cdd\npm\slick-carousel@1.6.0\slick\slick.min5010.css
+Content Type: text/css
+
+Uri: https://www.apensoftwares.co.ke/cdd/npm/slick-carousel%401.6.0/slick/slick.min5010.js?ver=4.9.8
+File Name: C:\Downloaded Web Sites\www.apensoftwares.co.ke\cdd\npm\slick-carousel@1.6.0\slick\slick.min5010.js
+Content Type: application/javascript
+
+Uri: https://www.apensoftwares.co.ke/contact
+File Name: C:\Downloaded Web Sites\www.apensoftwares.co.ke\contact.html
+Content Type: text/html
+
+Uri: https://www.apensoftwares.co.ke/images/aps.png
+File Name: C:\Downloaded Web Sites\www.apensoftwares.co.ke\images\aps.png
+Content Type: image/png
+
+Uri: https://www.apensoftwares.co.ke/images/customer.png
+File Name: C:\Downloaded Web Sites\www.apensoftwares.co.ke\images\customer.png
+Content Type: image/png
+
+Uri: https://www.apensoftwares.co.ke/images/design.png
+File Name: C:\Downloaded Web Sites\www.apensoftwares.co.ke\images\design.png
+Content Type: image/png
+
+Uri: https://www.apensoftwares.co.ke/images/erp.png
+File Name: C:\Downloaded Web Sites\www.apensoftwares.co.ke\images\erp.png
+Content Type: image/png
+
+Uri: https://www.apensoftwares.co.ke/images/logo.png
+File Name: C:\Downloaded Web Sites\www.apensoftwares.co.ke\images\logo.png
+Content Type: image/png
+
+Uri: https://www.apensoftwares.co.ke/images/software.png
+File Name: C:\Downloaded Web Sites\www.apensoftwares.co.ke\images\software.png
+Content Type: image/png
+
+Uri: https://www.apensoftwares.co.ke/images/webs.png
+File Name: C:\Downloaded Web Sites\www.apensoftwares.co.ke\images\webs.png
+Content Type: image/png
+
+Uri: https://www.apensoftwares.co.ke/jox/app/themes/tsc-2018/build/hamburger-menu95a9.js?ver=1592494560
+File Name: C:\Downloaded Web Sites\www.apensoftwares.co.ke\jox\app\themes\tsc-2018\build\hamburger-menu95a9.js
+Content Type: application/javascript
+
+Uri: https://www.apensoftwares.co.ke/jox/app/themes/tsc-2018/build/tiles4f7e.js?ver=1592494525
+File Name: C:\Downloaded Web Sites\www.apensoftwares.co.ke\jox\app\themes\tsc-2018\build\tiles4f7e.js
+Content Type: application/javascript
+
+Uri: https://www.apensoftwares.co.ke/jox/app/themes/tsc-2018/build/vertical-carousel0da9.js?ver=1592494537
+File Name: C:\Downloaded Web Sites\www.apensoftwares.co.ke\jox\app\themes\tsc-2018\build\vertical-carousel0da9.js
+Content Type: application/javascript
+
+Uri: https://www.apensoftwares.co.ke/jox/app/themes/tsc-2018/fonts/AnnonymousPro/Anonymous_Pro.ttf
+File Name: C:\Downloaded Web Sites\www.apensoftwares.co.ke\jox\app\themes\tsc-2018\fonts\AnnonymousPro\Anonymous_Pro.ttf
+Content Type: font/ttf
+
+Uri: https://www.apensoftwares.co.ke/jox/app/themes/tsc-2018/fonts/AnnonymousPro/Anonymous_Pro.woff
+File Name: C:\Downloaded Web Sites\www.apensoftwares.co.ke\jox\app\themes\tsc-2018\fonts\AnnonymousPro\Anonymous_Pro.woff
+Content Type: font/woff
+
+Uri: https://www.apensoftwares.co.ke/jox/app/themes/tsc-2018/fonts/AnnonymousPro/Anonymous_Pro.woff2
+File Name: C:\Downloaded Web Sites\www.apensoftwares.co.ke\jox\app\themes\tsc-2018\fonts\AnnonymousPro\Anonymous_Pro.woff2
+Content Type: font/woff2
+
+Uri: https://www.apensoftwares.co.ke/jox/app/themes/tsc-2018/fonts/AnnonymousPro/Anonymous_Pro_B.ttf
+File Name: C:\Downloaded Web Sites\www.apensoftwares.co.ke\jox\app\themes\tsc-2018\fonts\AnnonymousPro\Anonymous_Pro_B.ttf
+Content Type: font/ttf
+
+Uri: https://www.apensoftwares.co.ke/jox/app/themes/tsc-2018/fonts/AnnonymousPro/Anonymous_Pro_B.woff
+File Name: C:\Downloaded Web Sites\www.apensoftwares.co.ke\jox\app\themes\tsc-2018\fonts\AnnonymousPro\Anonymous_Pro_B.woff
+Content Type: font/woff
+
+Uri: https://www.apensoftwares.co.ke/jox/app/themes/tsc-2018/fonts/AnnonymousPro/Anonymous_Pro_B.woff2
+File Name: C:\Downloaded Web Sites\www.apensoftwares.co.ke\jox\app\themes\tsc-2018\fonts\AnnonymousPro\Anonymous_Pro_B.woff2
+Content Type: font/woff2
+
+Uri: https://www.apensoftwares.co.ke/jox/app/themes/tsc-2018/fonts/AnnonymousPro/Anonymous_Pro_I.ttf
+File Name: C:\Downloaded Web Sites\www.apensoftwares.co.ke\jox\app\themes\tsc-2018\fonts\AnnonymousPro\Anonymous_Pro_I.ttf
+Content Type: font/ttf
+
+Uri: https://www.apensoftwares.co.ke/jox/app/themes/tsc-2018/fonts/AnnonymousPro/Anonymous_Pro_I.woff
+File Name: C:\Downloaded Web Sites\www.apensoftwares.co.ke\jox\app\themes\tsc-2018\fonts\AnnonymousPro\Anonymous_Pro_I.woff
+Content Type: font/woff
+
+Uri: https://www.apensoftwares.co.ke/jox/app/themes/tsc-2018/fonts/AnnonymousPro/Anonymous_Pro_I.woff2
+File Name: C:\Downloaded Web Sites\www.apensoftwares.co.ke\jox\app\themes\tsc-2018\fonts\AnnonymousPro\Anonymous_Pro_I.woff2
+Content Type: font/woff2
+
+Uri: https://www.apensoftwares.co.ke/jox/app/themes/tsc-2018/fonts/Poppins/Poppins-Bold.ttf
+File Name: C:\Downloaded Web Sites\www.apensoftwares.co.ke\jox\app\themes\tsc-2018\fonts\Poppins\Poppins-Bold.ttf
+Content Type: font/ttf
+
+Uri: https://www.apensoftwares.co.ke/jox/app/themes/tsc-2018/fonts/Poppins/Poppins-Bold.woff
+File Name: C:\Downloaded Web Sites\www.apensoftwares.co.ke\jox\app\themes\tsc-2018\fonts\Poppins\Poppins-Bold.woff
+Content Type: font/woff
+
+Uri: https://www.apensoftwares.co.ke/jox/app/themes/tsc-2018/fonts/Poppins/Poppins-Bold.woff2
+File Name: C:\Downloaded Web Sites\www.apensoftwares.co.ke\jox\app\themes\tsc-2018\fonts\Poppins\Poppins-Bold.woff2
+Content Type: font/woff2
+
+Uri: https://www.apensoftwares.co.ke/jox/app/themes/tsc-2018/fonts/Poppins/Poppins-Regular.ttf
+File Name: C:\Downloaded Web Sites\www.apensoftwares.co.ke\jox\app\themes\tsc-2018\fonts\Poppins\Poppins-Regular.ttf
+Content Type: font/ttf
+
+Uri: https://www.apensoftwares.co.ke/jox/app/themes/tsc-2018/fonts/Poppins/Poppins-Regular.woff
+File Name: C:\Downloaded Web Sites\www.apensoftwares.co.ke\jox\app\themes\tsc-2018\fonts\Poppins\Poppins-Regular.woff
+Content Type: font/woff
+
+Uri: https://www.apensoftwares.co.ke/jox/app/themes/tsc-2018/fonts/Poppins/Poppins-Regular.woff2
+File Name: C:\Downloaded Web Sites\www.apensoftwares.co.ke\jox\app\themes\tsc-2018\fonts\Poppins\Poppins-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://www.apensoftwares.co.ke/jox/app/themes/tsc-2018/fonts/Poppins/Poppins-SemiBold.ttf
+File Name: C:\Downloaded Web Sites\www.apensoftwares.co.ke\jox\app\themes\tsc-2018\fonts\Poppins\Poppins-SemiBold.ttf
+Content Type: font/ttf
+
+Uri: https://www.apensoftwares.co.ke/jox/app/themes/tsc-2018/fonts/Poppins/Poppins-SemiBold.woff
+File Name: C:\Downloaded Web Sites\www.apensoftwares.co.ke\jox\app\themes\tsc-2018\fonts\Poppins\Poppins-SemiBold.woff
+Content Type: font/woff
+
+Uri: https://www.apensoftwares.co.ke/jox/app/themes/tsc-2018/fonts/Poppins/Poppins-SemiBold.woff2
+File Name: C:\Downloaded Web Sites\www.apensoftwares.co.ke\jox\app\themes\tsc-2018\fonts\Poppins\Poppins-SemiBold.woff2
+Content Type: font/woff2
+
+Uri: https://www.apensoftwares.co.ke/jox/app/themes/tsc-2018/img/patterns/awards-background.png
+File Name: C:\Downloaded Web Sites\www.apensoftwares.co.ke\jox\app\themes\tsc-2018\img\patterns\awards-background.png
+Content Type: image/png
+
+Uri: https://www.apensoftwares.co.ke/jox/app/themes/tsc-2018/img/patterns/awardTexture.svg
+File Name: C:\Downloaded Web Sites\www.apensoftwares.co.ke\jox\app\themes\tsc-2018\img\patterns\awardTexture.svg
+Content Type: image/svg+xml
+
+Uri: https://www.apensoftwares.co.ke/jox/app/themes/tsc-2018/img/patterns/gradient-blob.svg
+File Name: C:\Downloaded Web Sites\www.apensoftwares.co.ke\jox\app\themes\tsc-2018\img\patterns\gradient-blob.svg
+Content Type: image/svg+xml
+
+Uri: https://www.apensoftwares.co.ke/jox/app/themes/tsc-2018/img/patterns/noise.jpg
+File Name: C:\Downloaded Web Sites\www.apensoftwares.co.ke\jox\app\themes\tsc-2018\img\patterns\noise.jpg
+Content Type: image/jpeg
+
+Uri: https://www.apensoftwares.co.ke/jox/app/themes/tsc-2018/img/patterns/pattern-bottom-left.svg
+File Name: C:\Downloaded Web Sites\www.apensoftwares.co.ke\jox\app\themes\tsc-2018\img\patterns\pattern-bottom-left.svg
+Content Type: image/svg+xml
+
+Uri: https://www.apensoftwares.co.ke/jox/app/themes/tsc-2018/img/patterns/pattern-top-right.svg
+File Name: C:\Downloaded Web Sites\www.apensoftwares.co.ke\jox\app\themes\tsc-2018\img\patterns\pattern-top-right.svg
+Content Type: image/svg+xml
+
+Uri: https://www.apensoftwares.co.ke/jox/app/themes/tsc-2018/img/patterns/pinkRowBg.svg
+File Name: C:\Downloaded Web Sites\www.apensoftwares.co.ke\jox\app\themes\tsc-2018\img\patterns\pinkRowBg.svg
+Content Type: image/svg+xml
+
+Uri: https://www.apensoftwares.co.ke/jox/app/themes/tsc-2018/img/patterns/willies.svg
+File Name: C:\Downloaded Web Sites\www.apensoftwares.co.ke\jox\app\themes\tsc-2018\img\patterns\willies.svg
+Content Type: image/svg+xml
+
+Uri: https://www.apensoftwares.co.ke/jox/app/themes/tsc-2018/img/svgs/Android.svg
+File Name: C:\Downloaded Web Sites\www.apensoftwares.co.ke\jox\app\themes\tsc-2018\img\svgs\Android.svg
+Content Type: image/svg+xml
+
+Uri: https://www.apensoftwares.co.ke/jox/app/themes/tsc-2018/img/svgs/AndroidDark.svg
+File Name: C:\Downloaded Web Sites\www.apensoftwares.co.ke\jox\app\themes\tsc-2018\img\svgs\AndroidDark.svg
+Content Type: image/svg+xml
+
+Uri: https://www.apensoftwares.co.ke/jox/app/themes/tsc-2018/img/svgs/Apple.svg
+File Name: C:\Downloaded Web Sites\www.apensoftwares.co.ke\jox\app\themes\tsc-2018\img\svgs\Apple.svg
+Content Type: image/svg+xml
+
+Uri: https://www.apensoftwares.co.ke/jox/app/themes/tsc-2018/img/svgs/AppleDark.svg
+File Name: C:\Downloaded Web Sites\www.apensoftwares.co.ke\jox\app\themes\tsc-2018\img\svgs\AppleDark.svg
+Content Type: image/svg+xml
+
+Uri: https://www.apensoftwares.co.ke/jox/app/themes/tsc-2018/img/svgs/arrow-down.svg
+File Name: C:\Downloaded Web Sites\www.apensoftwares.co.ke\jox\app\themes\tsc-2018\img\svgs\arrow-down.svg
+Content Type: image/svg+xml
+
+Uri: https://www.apensoftwares.co.ke/jox/app/themes/tsc-2018/img/svgs/Cursor.svg
+File Name: C:\Downloaded Web Sites\www.apensoftwares.co.ke\jox\app\themes\tsc-2018\img\svgs\Cursor.svg
+Content Type: image/svg+xml
+
+Uri: https://www.apensoftwares.co.ke/jox/app/themes/tsc-2018/img/svgs/CursorDark.svg
+File Name: C:\Downloaded Web Sites\www.apensoftwares.co.ke\jox\app\themes\tsc-2018\img\svgs\CursorDark.svg
+Content Type: image/svg+xml
+
+Uri: https://www.apensoftwares.co.ke/jox/app/themes/tsc-2018/img/svgs/leftDiamonds.svg
+File Name: C:\Downloaded Web Sites\www.apensoftwares.co.ke\jox\app\themes\tsc-2018\img\svgs\leftDiamonds.svg
+Content Type: image/svg+xml
+
+Uri: https://www.apensoftwares.co.ke/jox/app/themes/tsc-2018/img/svgs/nextArrow.svg
+File Name: C:\Downloaded Web Sites\www.apensoftwares.co.ke\jox\app\themes\tsc-2018\img\svgs\nextArrow.svg
+Content Type: image/svg+xml
+
+Uri: https://www.apensoftwares.co.ke/jox/app/themes/tsc-2018/img/svgs/rightDiamonds.svg
+File Name: C:\Downloaded Web Sites\www.apensoftwares.co.ke\jox\app\themes\tsc-2018\img\svgs\rightDiamonds.svg
+Content Type: image/svg+xml
+
+Uri: https://www.apensoftwares.co.ke/jox/app/themes/tsc-2018/img/svgs/SquareFlourish1.svg
+File Name: C:\Downloaded Web Sites\www.apensoftwares.co.ke\jox\app\themes\tsc-2018\img\svgs\SquareFlourish1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.apensoftwares.co.ke/jox/app/themes/tsc-2018/img/svgs/SquareFlourish2.svg
+File Name: C:\Downloaded Web Sites\www.apensoftwares.co.ke\jox\app\themes\tsc-2018\img\svgs\SquareFlourish2.svg
+Content Type: image/svg+xml
+
+Uri: https://www.apensoftwares.co.ke/jox/app/themes/tsc-2018/img/svgs/successTickInline.svg
+File Name: C:\Downloaded Web Sites\www.apensoftwares.co.ke\jox\app\themes\tsc-2018\img\svgs\successTickInline.svg
+Content Type: image/svg+xml
+
+Uri: https://www.apensoftwares.co.ke/jox/app/themes/tsc-2018/img/svgs/wiggleLines.svg
+File Name: C:\Downloaded Web Sites\www.apensoftwares.co.ke\jox\app\themes\tsc-2018\img\svgs\wiggleLines.svg
+Content Type: image/svg+xml
+
+Uri: https://www.apensoftwares.co.ke/jox/app/themes/tsc-2018/styleb851.css?v=1594287270
+File Name: C:\Downloaded Web Sites\www.apensoftwares.co.ke\jox\app\themes\tsc-2018\styleb851.css
+Content Type: text/css
+
+Uri: https://www.apensoftwares.co.ke/services
+File Name: C:\Downloaded Web Sites\www.apensoftwares.co.ke\services.html
+Content Type: text/html
+
